@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/OziTAG/static/css/main.5fffffbb.chunk.css",
-    "main.js": "/OziTAG/static/js/main.11febb8f.chunk.js",
-    "main.js.map": "/OziTAG/static/js/main.11febb8f.chunk.js.map",
+    "main.js": "/OziTAG/static/js/main.e48bb77e.chunk.js",
+    "main.js.map": "/OziTAG/static/js/main.e48bb77e.chunk.js.map",
     "runtime-main.js": "/OziTAG/static/js/runtime-main.b70fbffc.js",
     "runtime-main.js.map": "/OziTAG/static/js/runtime-main.b70fbffc.js.map",
-    "static/js/2.8300bc85.chunk.js": "/OziTAG/static/js/2.8300bc85.chunk.js",
-    "static/js/2.8300bc85.chunk.js.map": "/OziTAG/static/js/2.8300bc85.chunk.js.map",
+    "static/js/2.8f5c9d1a.chunk.js": "/OziTAG/static/js/2.8f5c9d1a.chunk.js",
+    "static/js/2.8f5c9d1a.chunk.js.map": "/OziTAG/static/js/2.8f5c9d1a.chunk.js.map",
     "index.html": "/OziTAG/index.html",
     "static/css/main.5fffffbb.chunk.css.map": "/OziTAG/static/css/main.5fffffbb.chunk.css.map",
-    "static/js/2.8300bc85.chunk.js.LICENSE.txt": "/OziTAG/static/js/2.8300bc85.chunk.js.LICENSE.txt"
+    "static/js/2.8f5c9d1a.chunk.js.LICENSE.txt": "/OziTAG/static/js/2.8f5c9d1a.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.b70fbffc.js",
-    "static/js/2.8300bc85.chunk.js",
+    "static/js/2.8f5c9d1a.chunk.js",
     "static/css/main.5fffffbb.chunk.css",
-    "static/js/main.11febb8f.chunk.js"
+    "static/js/main.e48bb77e.chunk.js"
   ]
 }
